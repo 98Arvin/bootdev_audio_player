@@ -12,7 +12,7 @@ This Greasemonkey script enhances the audio player experience on Boot.dev by kee
 
 ## Usage
 
-1. Install the script to Greasemonkey (Firefox) or Tampermonkey (Google Chrome)
+1. Install the script with Greasemonkey (Firefox) or Tampermonkey (Google Chrome)
 2. Navigate to a lesson on Boot.dev - `https://www.boot.dev/lessons/*`
 3. The script will automatically fix the audio player and enable keyboard shortcuts.
 
