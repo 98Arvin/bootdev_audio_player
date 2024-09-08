@@ -16,5 +16,4 @@ This Greasemonkey script enhances the audio player experience on Boot.dev by kee
 2. Navigate to a lesson on Boot.dev - `https://www.boot.dev/lessons/*`
 3. The script will automatically fix the audio player and enable keyboard shortcuts.
 
-
 # ![Boot.dev Audio Player](https://blog.boot.dev/img/800/boots_beach.png.webp)
